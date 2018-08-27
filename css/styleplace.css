@@ -1,0 +1,39 @@
+body {
+  background-color: #d6cbd4;
+}
+h1 {
+  color: #575a7a;
+  font-family: cursive;
+  font-weight: 300px;
+  text-align: center;
+  font-size: 40px;
+}
+img {
+  height: 350px;
+  width: 600px;
+}
+ol{
+  text-align: center;
+  line-height: 30px;
+  font-style:oblique;
+  font-family: monospace;
+  color: #5a7a57;
+  font-size: 20px;
+}
+hr{
+  display: block;
+  width: auto;
+  border: 0;
+  border-top: 1px solid #5a7a57;
+  height: 5px;
+  margin: 1em 0;
+  padding: 0;
+
+}
+
+p{
+  font-family: monospace;
+  font-weight: 200;
+  line-height: 45px;
+  font-size: 15px;
+}
