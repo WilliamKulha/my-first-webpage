@@ -12,12 +12,16 @@ h2 {
 p {
   font-family: sans-serif;
   color: #ff4252;
+  font-size: 20px;
+  line-height: 35px;
+  text-align: left;
 }
   ul {
-    font-size: 20px;
+    font-size: 15px;
     line-height: 30px;
     font-weight: 50px;
     color: #ff6453;
+    text-align: left;
   }
 img {
   display: block;
