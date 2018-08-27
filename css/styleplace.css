@@ -37,3 +37,10 @@ p{
   line-height: 45px;
   font-size: 15px;
 }
+img{
+  width: 350px;
+  length: 700px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
