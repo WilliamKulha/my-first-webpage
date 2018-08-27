@@ -1,15 +1,30 @@
 h1 {
-  color: #00f;
+  color: #ff3232;
   text-align: center;
+  font-family: cursive;
 }
 h2 {
+  color: #ffb2b2;
   font-style: italic;
   text-align: center;
+  font-family: cursive;
 }
 p {
   font-family: sans-serif;
+  color: #ff4252;
 }
   ul {
     font-size: 20px;
     line-height: 30px;
+    font-weight: 50px;
+    color: #ff6453;
   }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: #000
+}
